@@ -1,0 +1,7 @@
+torch
+torchvision
+torchviz
+opencv-python
+numpy
+pandas
+imgaug
